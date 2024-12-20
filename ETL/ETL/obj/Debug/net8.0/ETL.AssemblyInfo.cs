@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ETL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60130124daf8713fcb1c5de3413a7b77e63c3736")]
 [assembly: System.Reflection.AssemblyProductAttribute("ETL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ETL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

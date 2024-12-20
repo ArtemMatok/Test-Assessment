@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\TestTestA\\Test-Assessment\\ETL\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D36179EF-6350-420F-95D6-9782B9148487}|ETL\\ETL.csproj|d:\\testtesta\\test-assessment\\etl\\etl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36179EF-6350-420F-95D6-9782B9148487}|ETL\\ETL.csproj|solutionrelative:etl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D36179EF-6350-420F-95D6-9782B9148487}|ETL\\ETL.csproj|d:\\testtesta\\test-assessment\\etl\\etl\\taxitripvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D36179EF-6350-420F-95D6-9782B9148487}|ETL\\ETL.csproj|solutionrelative:etl\\taxitripvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D36179EF-6350-420F-95D6-9782B9148487}|ETL\\ETL.csproj|d:\\testtesta\\test-assessment\\etl\\etl\\services\\taxitripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D36179EF-6350-420F-95D6-9782B9148487}|ETL\\ETL.csproj|solutionrelative:etl\\services\\taxitripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D36179EF-6350-420F-95D6-9782B9148487}|ETL\\ETL.csproj|d:\\testtesta\\test-assessment\\etl\\etl\\interfaces\\itaxitriprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D36179EF-6350-420F-95D6-9782B9148487}|ETL\\ETL.csproj|solutionrelative:etl\\interfaces\\itaxitriprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D36179EF-6350-420F-95D6-9782B9148487}|ETL\\ETL.csproj|d:\\testtesta\\test-assessment\\etl\\etl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D36179EF-6350-420F-95D6-9782B9148487}|ETL\\ETL.csproj|solutionrelative:etl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D36179EF-6350-420F-95D6-9782B9148487}|ETL\\ETL.csproj|d:\\testtesta\\test-assessment\\etl\\etl\\taxitripvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D36179EF-6350-420F-95D6-9782B9148487}|ETL\\ETL.csproj|solutionrelative:etl\\taxitripvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D36179EF-6350-420F-95D6-9782B9148487}|ETL\\ETL.csproj|d:\\testtesta\\test-assessment\\etl\\etl\\entities\\taxitrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 218,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -93,12 +93,8 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TaxiTripRepository.cs",
               "DocumentMoniker": "D:\\TestTestA\\Test-Assessment\\ETL\\ETL\\Repositories\\TaxiTripRepository.cs",
               "RelativeDocumentMoniker": "ETL\\Repositories\\TaxiTripRepository.cs",
@@ -106,8 +102,7 @@
               "RelativeToolTip": "ETL\\Repositories\\TaxiTripRepository.cs",
               "ViewState": "AgIAADYAAAAAAAAAAADwv0cAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T11:17:18.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T11:17:18.878Z"
             },
             {
               "$type": "Document",
@@ -119,21 +114,19 @@
               "RelativeToolTip": "ETL\\Interfaces\\ITaxiTripService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T11:28:57.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T11:28:57.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TaxiTripService.cs",
               "DocumentMoniker": "D:\\TestTestA\\Test-Assessment\\ETL\\ETL\\Services\\TaxiTripService.cs",
               "RelativeDocumentMoniker": "ETL\\Services\\TaxiTripService.cs",
               "ToolTip": "D:\\TestTestA\\Test-Assessment\\ETL\\ETL\\Services\\TaxiTripService.cs",
               "RelativeToolTip": "ETL\\Services\\TaxiTripService.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAUwFUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwFQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T11:29:24.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T11:29:24.879Z"
             },
             {
               "$type": "Document",
@@ -145,12 +138,11 @@
               "RelativeToolTip": "ETL\\Entities\\TaxiTrip.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T10:52:57.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T10:52:57.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "TaxiTripValidator.cs",
               "DocumentMoniker": "D:\\TestTestA\\Test-Assessment\\ETL\\ETL\\TaxiTripValidator.cs",
               "RelativeDocumentMoniker": "ETL\\TaxiTripValidator.cs",
@@ -158,25 +150,24 @@
               "RelativeToolTip": "ETL\\TaxiTripValidator.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAkwCwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T19:34:34.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T19:34:34.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TestTestA\\Test-Assessment\\ETL\\ETL\\Program.cs",
               "RelativeDocumentMoniker": "ETL\\Program.cs",
               "ToolTip": "D:\\TestTestA\\Test-Assessment\\ETL\\ETL\\Program.cs",
               "RelativeToolTip": "ETL\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwDQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T10:45:22.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ITaxiTripRepository.cs",
               "DocumentMoniker": "D:\\TestTestA\\Test-Assessment\\ETL\\ETL\\Interfaces\\ITaxiTripRepository.cs",
               "RelativeDocumentMoniker": "ETL\\Interfaces\\ITaxiTripRepository.cs",
@@ -184,8 +175,7 @@
               "RelativeToolTip": "ETL\\Interfaces\\ITaxiTripRepository.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAmwA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T11:13:33.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T11:13:33.009Z"
             },
             {
               "$type": "Document",
@@ -197,8 +187,7 @@
               "RelativeToolTip": "ETL\\Mappers\\TaxiTripCsvMapper.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAqwBQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T10:59:14.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T10:59:14.558Z"
             },
             {
               "$type": "Document",
@@ -210,8 +199,7 @@
               "RelativeToolTip": "ETL\\Response\\Result.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAWwBkAAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T11:25:03.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T11:25:03.891Z"
             },
             {
               "$type": "Document",
@@ -223,8 +211,7 @@
               "RelativeToolTip": "ETL\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-20T15:08:57.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T15:08:57.503Z"
             },
             {
               "$type": "Document",
@@ -235,8 +222,7 @@
               "ToolTip": "D:\\TestTestA\\Test-Assessment\\ETL\\ETL\\ETL.csproj",
               "RelativeToolTip": "ETL\\ETL.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-20T11:50:08.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T11:50:08.984Z"
             },
             {
               "$type": "Document",
@@ -248,8 +234,11 @@
               "RelativeToolTip": "ETL\\ETL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-20T11:52:29.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T11:52:29.627Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         },

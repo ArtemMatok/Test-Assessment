@@ -92,3 +92,4 @@ D:\TestTestA\Test-Assessment\ETL\ETL\obj\Debug\net8.0\ref\ETL.dll
 D:\TestTestA\Test-Assessment\ETL\ETL\bin\Debug\net8.0\FluentValidation.dll
 D:\TestTestA\Test-Assessment\ETL\ETL\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 D:\TestTestA\Test-Assessment\ETL\ETL\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\TestTestA\Test-Assessment\ETL\ETL\obj\Debug\net8.0\ETL.sourcelink.json
