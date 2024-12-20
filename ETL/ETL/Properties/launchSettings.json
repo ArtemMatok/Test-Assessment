@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ETL": {
+      "commandName": "Project",
+      "commandLineArgs": "--file=D:\\TestTestA\\Test-Assessment\\ETL\\ETL\\sample-cab-data.csv"
+    }
+  }
+}
